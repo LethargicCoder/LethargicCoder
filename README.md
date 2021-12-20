@@ -2,10 +2,9 @@
 - 👀 I’m interested in veganism, living vanlife, making videos about the two of those things at https://www.youtube.com/c/EricsVeganVan and maybe a little bit of coding.
 - 🌱 I’m currently learning ... GIT
 - 📫 How to reach me ...
-
-YouTube --> https://www.youtube.com/c/EricsVeganVan
-Instagram --> https://www.instagram.com/ericsveganvan/
-Website --> http://ericsveganvan.com/
+- YouTube --> https://www.youtube.com/c/EricsVeganVan
+- Instagram --> https://www.instagram.com/ericsveganvan/
+- Website --> http://ericsveganvan.com/
 
 <!---
 LethargicCoder/LethargicCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
